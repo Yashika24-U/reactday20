@@ -42,10 +42,10 @@ function Welcome() {
     },
     {
       priceType: "Med",
-      price: "15",
+      price: "9",
       ullist: [
         { liclass: "", iclass: "fas fa-check", desc: "5 User" },
-        { liclass: "", iclass: "fas fa-check", desc: "5GB Storage" },
+        { liclass: "", iclass: "fas fa-check", desc: "50GB Storage" },
         {
           liclass: "",
           iclass: "fas fa-check",
@@ -74,8 +74,8 @@ function Welcome() {
       priceType: "Pro",
       price: "49",
       ullist: [
-        { liclass: "", iclass: "fas fa-check", desc: "Single User" },
-        { liclass: "", iclass: "fas fa-check", desc: "5GB Storage" },
+        { liclass: "", iclass: "fas fa-check", desc: "SingleUser" },
+        { liclass: "", iclass: "fas fa-check", desc: "500GB Storage" },
         {
           liclass: "",
           iclass: "fas fa-check",
